@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="http://github.com/cretzel/ScalaConsoleFX/tree/master/webstart/" href="ScalaConsoleFX.jnlp">
+<jnlp spec="1.0+" codebase="http://github.com/cretzel/ScalaConsoleFX/raw/master/webstart/" href="ScalaConsoleFX.jnlp">
     <information>
         <title>ScalaConsoleFX</title>
         <vendor>Nick</vendor>
