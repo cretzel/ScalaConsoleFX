@@ -3,7 +3,7 @@
     <information>
         <title>ScalaConsoleFX</title>
         <vendor>Nick</vendor>
-        <homepage href="http://github.com/cretzel/ScalaConsoleFX/"/>
+        <homepage href="http://github.com/cretzel/ScalaConsoleFX/" />
         <description>ScalaConsoleFX</description>
         <offline-allowed/>
         <shortcut>
