@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/C%3A/Users/Nick/Projekte/Workspaces/JavaFXWorkspace/ScalaConsoleFX/dist/" href="ScalaConsoleFX_browser.jnlp">
+    <information>
+        <title>ScalaConsoleFX</title>
+        <vendor>Nick</vendor>
+        <homepage href="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/C%3A/Users/Nick/Projekte/Workspaces/JavaFXWorkspace/ScalaConsoleFX/dist/"/>
+        <description>ScalaConsoleFX</description>
+        <offline-allowed/>
+        <shortcut>
+            <desktop/>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <jar href="ScalaConsoleFX.jar" main="true"/>
+        <jar href="lib/JFXtras-0.5.jar"/>
+        <jar href="lib/scala-library-2.7.5.jar"/>
+        <jar href="lib/scala-compiler-2.7.5.jar"/>
+        <jar href="lib/scala-dbc-2.7.5.jar"/>
+        <jar href="lib/scala-console-fx-1.0.0-SNAPSHOT.jar"/>
+    </resources>
+    <applet-desc name="ScalaConsoleFX" main-class="com.sun.javafx.runtime.adapter.Applet" width="200" height="200">
+        <param name="MainJavaFXScript" value="com.github.scalaconsolefx.Main">
+    </applet-desc>
+    <update check="background">
+</jnlp>
