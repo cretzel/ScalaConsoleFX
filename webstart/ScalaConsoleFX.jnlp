@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/C%3A/Users/Nick/Projekte/Workspaces/JavaFXWorkspace/ScalaConsoleFX/dist/" href="ScalaConsoleFX.jnlp">
+<jnlp spec="1.0+" codebase="http://github.com/cretzel/ScalaConsoleFX/tree/master/webstart/" href="ScalaConsoleFX.jnlp">
     <information>
         <title>ScalaConsoleFX</title>
         <vendor>Nick</vendor>
-        <homepage href="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/C%3A/Users/Nick/Projekte/Workspaces/JavaFXWorkspace/ScalaConsoleFX/dist/"/>
+        <homepage href="http://github.com/cretzel/ScalaConsoleFX/"/>
         <description>ScalaConsoleFX</description>
         <offline-allowed/>
         <shortcut>
