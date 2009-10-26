@@ -1,0 +1,2 @@
+keytool -genkey -keystore scalaconsolefxKeys -alias cretzel
+jarsigner -keystore scalaconsolefxKeys ShotFX.jar cretzel
